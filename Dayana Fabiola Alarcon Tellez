@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mis Nuevas Mascotas</title>
+</head>
+<body>
+  <h1 style="color: orange; font-family: 'Georgia';">Bienvenidos a mi Página de Mascotas</h1>
+  <h2 style="color: darkblue; font-family: 'Times New Roman';">Perros, Gatos y Más</h2>
+  <p style="color: teal; font-family: 'Arial'; font-size: 18px;">Los perros son excelentes compañeros y siempre están llenos de energía.</p>
+  <p style="color: brown; font-family: 'Comic Sans MS'; font-size: 16px;">Los gatos son curiosos, independientes, pero también cariñosos.</p>
+  <img src="perro.webp" alt="Imagen de un perro" width="200">
+  <img src="gato.jpeg" alt="Imagen de un gato" width="200">
+
+</body>
+</html>
